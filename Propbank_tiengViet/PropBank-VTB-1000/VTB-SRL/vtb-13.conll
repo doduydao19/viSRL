@@ -1,0 +1,1435 @@
+1	Bạn_trai	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+2	Đào	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+3	tên	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+4	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+5	đã	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+6	bỏ	_	_	_	_	_	_	_	_	_	_	Y	quit.01	_	_
+7	học	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	_
+8	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	mở	_	_	_	_	_	_	_	_	_	_	Y	establish.01	_	_
+10	cửa_hàng	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+11	điện_thoại	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+12	di_động	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+13	(	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+14	ĐTDĐ	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+15	)	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+16	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Đào	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+2	muốn	_	_	_	_	_	_	_	_	_	_	Y	want.01	_	_	_
+3	bố_mẹ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+4	giúp	_	_	_	_	_	_	_	_	_	_	Y	help.01	Arg1	_	_
+5	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg2	_
+6	tiền	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_
+7	nhưng	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS
+8	ông_bà	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+9	nói	_	_	_	_	_	_	_	_	_	_	Y	say.01	_	_	_
+10	không_thể	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+11	...	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ngày	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	thứ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	năm	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Đào	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_	_
+5	điện	_	_	_	_	_	_	_	_	_	_	Y	call.02	_	Arg0	_	_
+6	về	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_
+7	nhà	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_
+8	nói	_	_	_	_	_	_	_	_	_	_	Y	say.01	_	_	_	_
+9	vắn_tắt	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR	_	_
+10	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_
+12	Con	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0	Arg0
+13	đang	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	ArgM-TMP	Arg0
+14	chạy	_	_	_	_	_	_	_	_	_	_	Y	borrow.01	_	ArgM-DSP	_	Arg0
+15	tiền	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg0
+16	giúp	_	_	_	_	_	_	_	_	_	_	Y	help.01	_	ArgM-DSP	_	_
+17	anh	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	Arg2
+18	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	Arg2
+19	"	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_
+20	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Đó	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+2	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_
+3	tất_cả	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+4	những	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+5	gì	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+6	ông_bà	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+7	biết	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+8	...	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Bình	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	xin	_	_	_	_	_	_	_	_	_	_	Y	ask.02	_
+3	số	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+4	điện_thoại	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+5	của	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+6	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+7	có	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+8	hàng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Hai	_	_	_	_	_	_	_	_	_	_	_	_	
+2	người	_	_	_	_	_	_	_	_	_	_	_	_	
+3	khách	_	_	_	_	_	_	_	_	_	_	_	_	
+4	từ	_	_	_	_	_	_	_	_	_	_	_	_	
+5	hiệu	_	_	_	_	_	_	_	_	_	_	_	_	
+6	giặt	_	_	_	_	_	_	_	_	_	_	_	_	
+7	là	_	_	_	_	_	_	_	_	_	_	_	_	
+8	.	_	_	_	_	_	_	_	_	_	_	_	_	
+
+1	Tin	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	nhắn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+3	cho	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+4	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+5	không	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG
+6	có	_	_	_	_	_	_	_	_	_	_	Y	have.12	_
+7	phản_hồi	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+8	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Khi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	định_thần	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	,	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Hậu	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+5	mất	_	_	_	_	_	_	_	_	_	_	Y	lose.02	_
+6	dấu	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+7	xe	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+8	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Họ	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_	_	_
+2	nhận_định	_	_	_	_	_	_	_	_	_	_	Y	consider.01	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_	_
+5	và	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_	_
+6	Đào	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_	_
+7	đã	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-TMP	_	_	_
+8	thỏa_thuận	_	_	_	_	_	_	_	_	_	_	Y	agree.01	Arg1	_	_	_	_
+9	cùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_	_	_
+10	bỏ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_	_	_
+11	trốn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_	_	_
+12	nhằm	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRP	Arg1	_	_
+13	ép	_	_	_	_	_	_	_	_	_	_	Y	force.01	Arg1	ArgM-PRP	Arg1	_	_
+14	bố_mẹ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRP	Arg1	Arg0	_
+15	Đào	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRP	Arg1	Arg0	_
+16	muốn	_	_	_	_	_	_	_	_	_	_	Y	want.01	Arg1	ArgM-PRP	Arg1	_	_
+17	con	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRP	Arg1	Arg1	_
+18	về	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRP	Arg1	Arg1	_
+19	phải	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRP	Arg2	_	ArgM-MOD
+20	cho	_	_	_	_	_	_	_	_	_	_	Y	give.01	Arg1	ArgM-PRP	Arg2	_	_
+21	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRP	Arg2	_	Arg2
+22	tiền	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRP	Arg2	_	Arg1
+23	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Bà	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	Arg0
+2	Hồng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	Arg0
+3	cần	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MOD	_	_
+4	kiểm_tra	_	_	_	_	_	_	_	_	_	_	Y	check.01	_	_	_
+5	lại	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	_	_
+6	các	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+7	điểm	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+8	họ_hàng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+9	quê_quán	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+10	Đào	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+11	có_thể	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-MOD	_
+12	đến	_	_	_	_	_	_	_	_	_	_	Y	come.01	Arg1	_	_
+13	và	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	tuyệt_đối	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR
+15	giữ	_	_	_	_	_	_	_	_	_	_	Y	keep.01	_	_	_
+16	bí_mật	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+17	việc	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+18	thuê	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+19	thám_tử	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+20	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Mẹ	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+2	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+3	chấp_nhận	_	_	_	_	_	_	_	_	_	_	Y	accept.01	_	_	_
+4	mặc_cả	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+5	của	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+6	con_trai	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+7	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	Arg1	_	_
+8	mua	_	_	_	_	_	_	_	_	_	_	Y	buy.01	Arg1	Arg1	_
+9	cho	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	Arg2
+10	nó	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	Arg2
+11	một	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	Arg1
+12	chiếc	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	Arg1
+13	@	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	Arg1
+14	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Nếu	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+2	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	ArgM-ADV
+3	học	_	_	_	_	_	_	_	_	_	_	Y	study.01	_	ArgM-ADV
+4	được	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+5	hai	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+6	tuần	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+7	nghiêm_túc	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+8	thì	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	mẹ	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+10	mua	_	_	_	_	_	_	_	_	_	_	Y	buy.01	_	_
+11	xe	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+12	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Khi	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_	_	_
+2	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	ArgM-TMP	_	_	_
+3	định	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MOD	ArgM-TMP	_	_	_
+4	lấn_át	_	_	_	_	_	_	_	_	_	_	Y	transgress.01	_	ArgM-TMP	_	_	_
+5	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Hải	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_	_
+7	điềm_nhiên	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR	_	_	_
+8	nhìn	_	_	_	_	_	_	_	_	_	_	Y	look.01	_	_	_	_	_
+9	thẳng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIR	_	_	_
+10	vào	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_	_
+11	mặt	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_	_
+12	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_	_
+13	tỏ_vẻ	_	_	_	_	_	_	_	_	_	_	Y	show.01	_	ArgM-ADV	_	_	_
+14	cứng_rắn	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	Arg1	_	_
+15	nhưng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_	_
+16	không	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	ArgM-NEG	_
+17	thách_thức	_	_	_	_	_	_	_	_	_	_	Y	challenge.01	_	ArgM-ADV	_	_	_
+18	,	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_	_
+19	không	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_	ArgM-NEG
+20	thù	_	_	_	_	_	_	_	_	_	_	Y	rancorous	_	ArgM-ADV	_	_	_
+21	vặt	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_	ArgM-PRD
+22	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+2	chỉ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT
+3	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_
+4	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+5	phát_triển	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+6	thêm	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+7	tình	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+8	hữu_nghị	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+9	đó	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+10	"	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Theo	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_
+2	lịch	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_
+3	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	hôm_nay	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+5	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+6	giúp_việc	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+7	về	_	_	_	_	_	_	_	_	_	_	Y	come.01	_	_
+8	quê	_	_	_	_	_	_	_	_	_	_	_	_	Arg2	_
+9	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	tùng	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+11	,	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+12	con_trai	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+13	chị	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+14	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	đi	_	_	_	_	_	_	_	_	_	_	Y	go.01	_	_
+16	học	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+17	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	Arg0	Arg0
+2	lim_dim	_	_	_	_	_	_	_	_	_	_	Y	half-closed	_	_	_	_
+3	nuốt	_	_	_	_	_	_	_	_	_	_	Y	swallow.01	Arg1	_	_	_
+4	khói	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_	_
+5	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	uống	_	_	_	_	_	_	_	_	_	_	Y	drink.01	_	_	_	_
+7	một	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+8	ngụm	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+9	coca	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+10	rồi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS
+11	nằm	_	_	_	_	_	_	_	_	_	_	Y	lie	_	_	_	_
+12	vật	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+13	ra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+14	nền	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+15	thọc	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+16	tay	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+17	vào	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+18	bụng	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+19	gãi_gãi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+20	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Thằng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	thứ	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+3	ba	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+4	ấn	_	_	_	_	_	_	_	_	_	_	Y	press.01	_
+5	vào	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+6	miệng	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+7	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+8	điếu	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	thuốc_lá	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+10	cháy	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+11	đỏ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+12	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Hải	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	Arg0
+2	học	_	_	_	_	_	_	_	_	_	_	Y	study.01	_	_	_
+3	nghiêm_túc	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR	_	_
+4	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	kiệm_lời	_	_	_	_	_	_	_	_	_	_	Y	quiet	_	_	_
+6	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	ít	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT
+8	giao_lưu	_	_	_	_	_	_	_	_	_	_	Y	exchange.01	_	_	_
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Hai	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	ngày	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	nữa	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+4	mẹ	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+5	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+6	sẽ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+7	mua	_	_	_	_	_	_	_	_	_	_	Y	buy.01	_
+8	xe	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Buổi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	học	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+3	bớt	_	_	_	_	_	_	_	_	_	_	Y	relieve.01	_
+4	nặng_nề	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+5	với	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+6	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+7	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Thám_tử	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+3	trong	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+4	vai	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+5	Hải	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+6	xuất_hiện	_	_	_	_	_	_	_	_	_	_	Y	appear.01	_
+7	bên	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+8	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	một_cách	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR
+10	lãnh_đạm	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR
+11	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ông	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+2	Võ_Văn_Sung	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+3	cho	_	_	_	_	_	_	_	_	_	_	Y	tell.01	_	_	_
+4	biết	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	_	_
+5	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	phong_trào	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	Arg0
+8	nhân_dân	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	Arg0
+9	Pháp	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	Arg0
+10	ủng_hộ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	Arg0
+11	VN	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0	Arg0
+12	chống	_	_	_	_	_	_	_	_	_	_	Y	resist.01	ArgM-DSP	_	Arg0
+13	chiến_tranh	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg0
+14	xâm_lược	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg0
+15	của	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg0
+16	thực_dân	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg0
+17	Pháp	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg0
+18	và	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg0
+19	Mỹ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg0
+20	rất	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	ArgM-EXT
+21	sôi_nổi	_	_	_	_	_	_	_	_	_	_	Y	excite.01	ArgM-DSP	_	_
+22	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Lần	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+2	theo	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+3	vết	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+4	giày	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+5	hằn	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+6	trên	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+7	thảm_đỏ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+8	,	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Hằng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+10	lên	_	_	_	_	_	_	_	_	_	_	Y	go.01	_
+11	tới	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIR
+12	phòng	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+13	con_trai	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+14	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Chàng	_	_	_	_	_	_	_	_	_	_	_	_	
+2	thám_tử	_	_	_	_	_	_	_	_	_	_	_	_	
+3	thư_sinh	_	_	_	_	_	_	_	_	_	_	_	_	
+4	.	_	_	_	_	_	_	_	_	_	_	_	_	
+
+1	Sau	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+2	hai	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+3	tháng	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+4	học	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+5	tử_tế	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+6	mẹ	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+7	sẽ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+8	chính_thức	_	_	_	_	_	_	_	_	_	_	Y	official.02	_	_
+9	sang_tên	_	_	_	_	_	_	_	_	_	_	Y	transfer.01	ArgM-PRD	_
+10	xe	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg1
+11	cho	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg2
+12	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg2
+13	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Hải	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	Arg0
+2	cười	_	_	_	_	_	_	_	_	_	_	Y	smile.01	_	_	_
+3	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	khẽ	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR	_
+5	gật	_	_	_	_	_	_	_	_	_	_	Y	nod.01	_	_	_
+6	và	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	ghé	_	_	_	_	_	_	_	_	_	_	Y	visit.01	_	_	_
+8	vào	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	quán	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+10	nước	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+11	ngồi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+12	tỉnh_bơ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+13	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Thỉnh_thoảng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+2	học	_	_	_	_	_	_	_	_	_	_	Y	study.01	_	ArgM-ADV
+3	khuya	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR	ArgM-ADV
+4	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Hải	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+6	ngủ	_	_	_	_	_	_	_	_	_	_	Y	sleep.01	_	_
+7	lại	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+8	với	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-COM
+9	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-COM
+10	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Máy	_	_	_	_	_	_	_	_	_	_	_	_	
+2	gom	_	_	_	_	_	_	_	_	_	_	_	_	
+3	lúa	_	_	_	_	_	_	_	_	_	_	_	_	
+4	của	_	_	_	_	_	_	_	_	_	_	_	_	
+5	lão_nông	_	_	_	_	_	_	_	_	_	_	_	_	
+6	lớp	_	_	_	_	_	_	_	_	_	_	_	_	
+7	5	_	_	_	_	_	_	_	_	_	_	_	_	
+8	trường	_	_	_	_	_	_	_	_	_	_	_	_	
+9	làng	_	_	_	_	_	_	_	_	_	_	_	_	
+10	.	_	_	_	_	_	_	_	_	_	_	_	_	
+
+1	Năm	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	Arg0	Arg0	_
+2	1992	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	Arg0	Arg0	_
+3	vợ_chồng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	Arg0	_
+4	con_cái	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	Arg0	_
+5	anh	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	Arg0	_
+6	Tư	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	Arg0	_
+7	đùm_túm	_	_	_	_	_	_	_	_	_	_	Y	null	_	Arg0	Arg0	_
+8	nhau	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	Arg0	_
+9	về	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg0	Arg0	_
+10	khai_hoang	_	_	_	_	_	_	_	_	_	_	Y	reclaim.01	_	_	_	_
+11	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	lập_nghiệp	_	_	_	_	_	_	_	_	_	_	Y	establish.01	_	_	_	_
+13	ở	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	_
+14	vùng	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	Arg0
+15	đất	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	Arg0
+16	đầy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	Arg0
+17	cỏ_năng	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	Arg0
+18	thuộc	_	_	_	_	_	_	_	_	_	_	Y	belong.01	_	_	ArgM-LOC	_
+19	ấp	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	Arg1
+20	Long_Phước	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	Arg1
+21	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	Arg1
+22	xã	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	Arg1
+23	Mỹ_Phước_Tây	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC	Arg1
+24	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Anh_trai	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_	_
+2	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_	_
+3	đã	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_	_	_
+4	cho	_	_	_	_	_	_	_	_	_	_	Y	give.01	_	_	_	_
+5	ngay	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR	_	_	_
+6	số	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_	_
+7	của	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_	_
+8	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_	_
+9	và	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	dặn	_	_	_	_	_	_	_	_	_	_	Y	null	_	_	_	_
+11	chỉ	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-EXT	_
+12	nên	_	_	_	_	_	_	_	_	_	_	Y	should	_	Arg1	_	ArgM-MOD
+13	nhắn_tin	_	_	_	_	_	_	_	_	_	_	Y	null	_	Arg1	_	_
+14	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Một	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	anh_trai	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+3	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+4	đang	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+5	ngồi_tù	_	_	_	_	_	_	_	_	_	_	Y	jail.01	_
+6	vì	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU
+7	tội	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU
+8	giết	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU
+9	người	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU
+10	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Gọi	_	_	_	_	_	_	_	_	_	_	Y	call.02	_	ArgM-ADV	_	_	_
+2	cho	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV	_	_	_
+3	hãng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV	_	_	_
+4	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Hậu	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_	_
+6	nói	_	_	_	_	_	_	_	_	_	_	Y	say.01	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	"	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_	_
+9	Tôi	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0	_	_
+10	có	_	_	_	_	_	_	_	_	_	_	Y	have.12	_	ArgM-DSP	_	_	_
+11	người_nhà	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg1	Arg0
+12	đi	_	_	_	_	_	_	_	_	_	_	Y	sit.01	_	ArgM-DSP	Arg1	_	_
+13	trên	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg2	_
+14	taxi	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg2	_
+15	đó	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	Arg2	_
+16	vào	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	ArgM-TMP	_
+17	giờ	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	ArgM-TMP	_
+18	này	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	ArgM-TMP	_
+19	,	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	_	_
+20	lấy	_	_	_	_	_	_	_	_	_	_	Y	catch.01	_	ArgM-DSP	Arg1	_	_
+21	khách	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	_	Arg1
+22	từ	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	_	ArgM-LOC
+23	đây	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1	_	ArgM-LOC
+24	...	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Thật	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT	ArgM-ADV	_
+2	may	_	_	_	_	_	_	_	_	_	_	Y	fortunate.01	_	ArgM-ADV	_
+3	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	taxi	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+5	nói	_	_	_	_	_	_	_	_	_	_	Y	say.01	_	_	_
+6	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	khách	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0
+8	về	_	_	_	_	_	_	_	_	_	_	Y	come.01	_	ArgM-DSP	_
+9	ngách	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg4-Goal
+10	115	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg4-Goal
+11	đường	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg4-Goal
+12	Pháo_Đài_Láng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg4-Goal
+13	...	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_
+2	đi	_	_	_	_	_	_	_	_	_	_	Y	go.01	_	Arg0	_
+3	đã	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+4	nhiều	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+5	ngày	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+6	không	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG	_
+7	về	_	_	_	_	_	_	_	_	_	_	Y	come.01	_	_	_
+8	và	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS
+9	điều	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+10	ấy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+11	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_	_	_
+12	bình_thường	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+13	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Các	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+2	thám_tử	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+3	khẳng_định	_	_	_	_	_	_	_	_	_	_	Y	affirm.01	_	_
+4	90	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+5	%	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+6	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	Arg1	_
+7	đúng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+8	đối_tượng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Không	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG	_
+2	nhớ	_	_	_	_	_	_	_	_	_	_	Y	miss.01	_	_
+3	số	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+4	xe	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+5	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	chỉ	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT
+7	biết	_	_	_	_	_	_	_	_	_	_	Y	know.01	_	_
+8	là	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	xe	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+10	Matiz	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+11	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Theo	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+2	phản_xạ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+3	,	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+5	quay	_	_	_	_	_	_	_	_	_	_	Y	turn.01	_
+6	ngoắt	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+7	lại	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+8	phía	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	Bình	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+10	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Công_việc	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	này	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+3	không	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG
+4	dễ_dàng	_	_	_	_	_	_	_	_	_	_	Y	easy	_
+5	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Trước_mắt	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	đề_nghị	_	_	_	_	_	_	_	_	_	_	Y	suggest.01	_	_	_	_
+3	gia_đình	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_
+4	bà	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_
+5	Hồng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_
+6	đăng_ký	_	_	_	_	_	_	_	_	_	_	Y	register.02	Arg1	_	_	_
+7	dịch_vụ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_	_
+8	hiện	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_	_
+9	số	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_	_
+10	điện_thoại	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_	_
+11	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	nếu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+13	Đào	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	ArgM-ADV
+14	gọi	_	_	_	_	_	_	_	_	_	_	Y	call.02	_	_	_	ArgM-ADV
+15	điện	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+16	về	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg2	ArgM-ADV
+17	nhà	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg2	ArgM-ADV
+18	thì	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	giữ	_	_	_	_	_	_	_	_	_	_	Y	keep.01	_	_	_	_
+20	số	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+21	đó	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+22	để	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+23	khoanh_vùng	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+24	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Các	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	phương_án	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	cụ_thể	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	:	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	theo_dõi	_	_	_	_	_	_	_	_	_	_	Y	keep.03	_
+6	cửa_hàng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+7	điện_thoại	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+8	và	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	nhà	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+10	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+11	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Mũi	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	thứ	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	hai	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	đến	_	_	_	_	_	_	_	_	_	_	Y	go.01	_
+5	gần	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR
+6	khu	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+7	nhà	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+8	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Sau	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	khi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	tìm	_	_	_	_	_	_	_	_	_	_	Y	find.01	_	_	_	_	_	ArgM-TMP
+4	được	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_	_	_	ArgM-TMP
+5	nhà	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_	_	_	ArgM-TMP
+6	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	theo_dõi	_	_	_	_	_	_	_	_	_	_	Y	follow.01	_	_	Arg0	_	_	ArgM-ADV
+8	nhiều	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_	ArgM-ADV
+9	ngày	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	_	ArgM-ADV
+10	không	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG	_	_	ArgM-ADV
+11	thấy	_	_	_	_	_	_	_	_	_	_	Y	find.01	_	_	_	_	_	ArgM-ADV
+12	tuấn	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_	ArgM-ADV
+13	về	_	_	_	_	_	_	_	_	_	_	Y	return.01	_	_	Arg1	_	_	ArgM-ADV
+14	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	thám_tử	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+16	đóng	_	_	_	_	_	_	_	_	_	_	Y	play.02	_	_	_	_	_	Arg0
+17	vai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+18	người	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+19	tiếp_thị	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+20	tiếp_cận	_	_	_	_	_	_	_	_	_	_	Y	approach.02	_	_	_	_	_	_
+21	gia_đình	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+22	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+23	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Mũi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	đua	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+3	xe	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+4	không	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG
+5	bắt	_	_	_	_	_	_	_	_	_	_	Y	pick_up.04	_
+6	được	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+7	tín_hiệu	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+8	gì	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Taxi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	Arg0
+2	Matiz	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	Arg0
+3	mà	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+4	không	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG	_	Arg0
+5	đeo	_	_	_	_	_	_	_	_	_	_	Y	have.12	_	_	Arg0
+6	đèn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	Arg0
+7	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+8	không	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG	Arg0
+9	ghi	_	_	_	_	_	_	_	_	_	_	Y	have.12	_	_	Arg0
+10	điện_thoại	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+11	lên	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+12	thành	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+13	xe	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+14	thì	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	chỉ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT
+16	duy_nhất	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	có	_	_	_	_	_	_	_	_	_	_	Y	have.12	_	_	_
+18	hãng	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+19	Thành_Hưng	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+20	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ba	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+2	nhóm	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+3	trong	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+4	vai	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+5	sinh_viên	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+6	,	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+7	lao_công	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+8	đi	_	_	_	_	_	_	_	_	_	_	Y	seek.01	_	Arg0
+9	tìm	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg0
+10	nhà	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+11	lập_tức	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+12	tràn	_	_	_	_	_	_	_	_	_	_	Y	overflow.02	_	_
+13	vào	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+14	tất_cả	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+15	ngõ_ngách	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+16	của	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+17	con	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+18	phố	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+19	này	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+20	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Những	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg1	_
+2	nhà	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg1	_
+3	đầy	_	_	_	_	_	_	_	_	_	_	Y	full	_	Arg1	_
+4	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_
+5	rồi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	Arg1	_
+6	thì	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	vẫn	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+8	vào	_	_	_	_	_	_	_	_	_	_	Y	come_in.07	_	_	_
+9	xem	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP	_
+10	bởi	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAUSE	_
+11	"	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAUSE	_
+12	tôi	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAUSE	Arg0
+13	có_thể	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAUSE	ArgM-MOD
+14	trả	_	_	_	_	_	_	_	_	_	_	Y	pay.01	_	ArgM-CAUSE	_
+15	tiền	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAUSE	Arg1
+16	cao	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAUSE	_
+17	gấp	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAUSE	_
+18	đôi	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAUSE	_
+19	"	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAUSE	_
+20	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Đứa	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+2	con	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+3	trở_lại	_	_	_	_	_	_	_	_	_	_	Y	return.01	_
+4	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ông_bà	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_
+2	Hồng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_
+3	xem	_	_	_	_	_	_	_	_	_	_	Y	watch.01	_	Arg0	_
+4	phim	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+5	,	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+6	ảnh	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+7	đã	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+8	xác_nhận	_	_	_	_	_	_	_	_	_	_	Y	confirm.01	_	_	_
+9	đúng	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PAR
+10	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_	Arg1	_
+11	con	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+12	mình	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+13	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Nếu	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+2	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_	ArgM-ADV
+3	bọn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+4	họ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+5	thì	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	chỉ	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	có_thể	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MOD
+8	đi	_	_	_	_	_	_	_	_	_	_	Y	take.01	_	_
+9	taxi	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+10	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Xin	_	_	_	_	_	_	_	_	_	_	Y	please.01	_	_	_
+2	hỏi	_	_	_	_	_	_	_	_	_	_	Y	ask.01	Arg1	_	_
+3	trả	_	_	_	_	_	_	_	_	_	_	Y	return.02	Arg1	Arg1	_
+4	khách	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	Arg1
+5	ở	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_
+6	đâu	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_
+7	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Đào	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+2	trình_bày	_	_	_	_	_	_	_	_	_	_	Y	express.01	_	_
+3	ý_muốn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+4	chia_sẻ	_	_	_	_	_	_	_	_	_	_	Y	share.01	Arg1	_
+5	hoạn_nạn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+6	với	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg2
+7	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg2
+8	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Sang	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	ngày	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	thứ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+4	ba	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+5	thì	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	một	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+7	đôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+8	trai_gái	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+9	mới	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+10	thuê	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+11	nhà	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+12	được	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+13	nửa	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+14	tháng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+15	có	_	_	_	_	_	_	_	_	_	_	Y	have.03	_
+16	dấu_hiệu	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+17	khả_nghi	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+18	nhất	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+19	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Sau	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	khi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	mất	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+4	nhiều	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+5	giờ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+6	trực	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+7	bên	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+8	ngoài	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+9	không	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+10	hiệu_quả	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+11	,	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	các	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+13	thám_tử	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+14	quyết_định	_	_	_	_	_	_	_	_	_	_	Y	decide.01	_
+15	đột_nhập	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+16	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Rất	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT	_	_	_
+2	đơn_giản	_	_	_	_	_	_	_	_	_	_	Y	simple	_	_	_	_
+3	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	gõ	_	_	_	_	_	_	_	_	_	_	Y	knock.01	_	_	_	_
+5	cửa	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+6	tiến	_	_	_	_	_	_	_	_	_	_	Y	walk.01	_	_	_	_
+7	vào	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	_
+8	nhà	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg2	_
+9	và	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	xin_lỗi	_	_	_	_	_	_	_	_	_	_	Y	sorry.01	_	_	_	_
+11	đã	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU
+12	nhầm	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU
+13	nhà	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU
+14	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tuy_nhiên	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	ArgM-CAU
+2	gã	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	ArgM-CAU
+3	thanh_niên	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	ArgM-CAU
+4	chỉ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU
+5	hơi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT	_	ArgM-CAU
+6	hé	_	_	_	_	_	_	_	_	_	_	Y	open.01	_	_	ArgM-CAU
+7	cửa	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	ArgM-CAU
+8	lộ	_	_	_	_	_	_	_	_	_	_	Y	leak.01	ArgM-PRD	_	ArgM-CAU
+9	1	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg1	ArgM-CAU
+10	/	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg1	ArgM-CAU
+11	3	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg1	ArgM-CAU
+12	gương_mặt	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg1	ArgM-CAU
+13	trong	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg1	ArgM-CAU
+14	nửa	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg1	ArgM-CAU
+15	phút	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	Arg1	ArgM-CAU
+16	nên	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	không	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG
+18	ghi_nhận	_	_	_	_	_	_	_	_	_	_	Y	record.01	_	_	_
+19	được	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+20	gì	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+21	nhiều	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Các	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+2	thám_tử	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+3	khác	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+4	tiếp_tục	_	_	_	_	_	_	_	_	_	_	Y	continue.01	_	_	_
+5	quay_phim	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+6	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	chụp	_	_	_	_	_	_	_	_	_	_	Y	snap.09	Arg1	_	_
+8	ảnh	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_
+9	và	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	theo	_	_	_	_	_	_	_	_	_	_	Y	scout.02	Arg1	_	_
+11	sát	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	ArgM-PRD
+12	họ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	Arg2
+13	từng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+14	bước	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+15	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Phần	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_	_
+2	việc	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_	_
+3	còn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_	_
+4	lại	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_	_
+5	tuy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	đơn_giản	_	_	_	_	_	_	_	_	_	_	Y	simple	_	_	_	_
+7	song	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	lại	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_	_
+9	có	_	_	_	_	_	_	_	_	_	_	Y	have.12	_	_	_	_
+10	tính	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+11	quan_trọng	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+12	nhất	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+13	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	đó	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified	_
+15	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_	_	_	_
+16	sẽ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier	ArgM-TMP
+17	đưa	_	_	_	_	_	_	_	_	_	_	Y	lead.01	_	_	Arg1-Identifier	_
+18	Đào	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier	Arg1
+19	về	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier	Arg4-Goal
+20	nhà	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier	Arg4-Goal
+21	ra_sao	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier	_
+22	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Buổi_sáng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	đôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+4	trẻ	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+5	ra	_	_	_	_	_	_	_	_	_	_	Y	go.01	_	Arg0
+6	phố	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal	Arg0
+7	Hàng_Mành	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal	Arg0
+8	ăn	_	_	_	_	_	_	_	_	_	_	Y	null	_	_
+9	sáng	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ông_bà	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+2	nhẹ_nhàng	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-MNR	_	_
+3	trách	_	_	_	_	_	_	_	_	_	_	Y	blame.01	_	_	_
+4	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+6	Sao	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+7	không	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	ArgM-NEG	_
+8	gọi	_	_	_	_	_	_	_	_	_	_	Y	call.02	ArgM-DIS	_	_
+9	điện	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	Arg1	_
+10	cho	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	ArgM-PRP	_
+11	bố_mẹ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	ArgM-PRP	Arg0
+12	đỡ	_	_	_	_	_	_	_	_	_	_	Y	null	ArgM-DIS	ArgM-PRP	_
+13	lo	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	ArgM-PRP	ArgM-PRD
+14	,	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+15	ăn	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+16	xong	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+17	rồi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+18	các	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+19	con	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+20	sang	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+21	uống	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+22	nước	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_	_
+23	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Có	_	_	_	_	_	_	_	_	_	_	Y	have.12	_	ArgM-ADV
+2	khó_khăn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+3	gì	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+4	cứ	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+5	nói	_	_	_	_	_	_	_	_	_	_	Y	say.01	_	_
+6	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+2	ngồi	_	_	_	_	_	_	_	_	_	_	Y	sit.01	_
+3	im	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+4	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Bà	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+2	Hồng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+3	nói	_	_	_	_	_	_	_	_	_	_	Y	say.01	_	_	_
+4	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_
+6	tối	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	ArgM-TMP
+7	nay	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	ArgM-TMP
+8	về	_	_	_	_	_	_	_	_	_	_	Y	go.01	ArgM-DSP	_	_
+9	nhà	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg4-Goal	_
+10	nói_chuyện	_	_	_	_	_	_	_	_	_	_	Y	talk.01	ArgM-DSP	_	_
+11	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Nếu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_
+2	con	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	ArgM-ADV	_
+3	không	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG	_	ArgM-ADV	_
+4	muốn	_	_	_	_	_	_	_	_	_	_	Y	want.01	_	ArgM-MOD	ArgM-ADV	_
+5	ở	_	_	_	_	_	_	_	_	_	_	Y	stay.01	_	_	ArgM-ADV	_
+6	thì	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	đi	_	_	_	_	_	_	_	_	_	_	Y	go.01	_	_	_	_
+8	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	bố_mẹ	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+10	không	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG
+11	ép	_	_	_	_	_	_	_	_	_	_	Y	force.01	_	_	_	_
+12	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	...	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Cô_gái	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0	_	_
+2	tỉnh_ngộ	_	_	_	_	_	_	_	_	_	_	Y	disabuse.01	_	_	_	_
+3	dần	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_	_
+4	và	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	thú_thật	_	_	_	_	_	_	_	_	_	_	Y	confess.01	_	_	_	_
+6	đã	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-TMP	_
+7	trực_tiếp	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+8	nhìn	_	_	_	_	_	_	_	_	_	_	Y	see.01	_	Arg1	_	_
+9	thấy	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRD	_
+10	tuấn	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	Arg0
+11	hít	_	_	_	_	_	_	_	_	_	_	Y	use	_	Arg1	Arg1	_
+12	heroin	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	Arg1
+13	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tuấn	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	đã	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	vài	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT
+4	lần	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT
+5	rủ	_	_	_	_	_	_	_	_	_	_	Y	ask.02	_
+6	đào	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+7	hít	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+8	cùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+9	cho	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+10	đỡ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+11	nhớ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+12	nhà	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+13	,	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+14	đỡ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+15	căng_thẳng	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+16	...	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	May	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	mà	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Đào	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+4	định	_	_	_	_	_	_	_	_	_	_	Y	think.01	_	_
+5	lần	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-TMP
+6	sau	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-TMP
+7	mới	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-TMP
+8	...	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+9	thử	_	_	_	_	_	_	_	_	_	_	Y	try.01	Arg1	_
+10	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Người	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient	_	_
+2	mẹ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient	_	_
+3	rùng_mình	_	_	_	_	_	_	_	_	_	_	Y	shiver.01	_	_	_
+4	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	đã	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	ArgM-TMP	_
+6	có	_	_	_	_	_	_	_	_	_	_	Y	have.12	ArgM-CAU	_	_
+7	lúc	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	_
+8	đứa	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg0
+9	con	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg0
+10	duy_nhất	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg0
+11	của	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg0
+12	mình	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg0
+13	chỉ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	ArgM-EXT
+14	cách	_	_	_	_	_	_	_	_	_	_	Y	separate.01	ArgM-CAU	Arg1	_
+15	những	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg1
+16	hồn	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg1
+17	ma	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg1
+18	ấy	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg1
+19	trong	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg1
+20	gang_tấc	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-CAU	Arg1	Arg1
+21	!	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Đưa	_	_	_	_	_	_	_	_	_	_	Y	bring.01	_	Arg0	_
+2	được	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	Arg0	_
+3	một	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+4	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+5	con	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+6	trở_về	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+7	với	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+8	gia_đình	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0	_
+9	cũng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+10	chính	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PAR	_
+11	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_	_	_
+12	các	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+13	thám_tử	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+14	đã	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-TMP
+15	giúp	_	_	_	_	_	_	_	_	_	_	Y	help.01	_	Arg1	_
+16	một	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+17	cuộc_đời	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+18	non_trẻ	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+19	thoát	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+20	khỏi	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+21	một	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+22	cạm_bẫy	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+23	...	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Gặp	_	_	_	_	_	_	_	_	_	_	Y	see.01	_
+2	hai	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+3	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+4	bạn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+5	quý	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+6	của	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+7	VN	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+8	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Họ	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	đã	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	đấu_tranh	_	_	_	_	_	_	_	_	_	_	Y	struggle.01	_
+4	cho	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+5	hòa_bình	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+6	của	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+7	VN	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+8	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient	_
+2	bị	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	bắt	_	_	_	_	_	_	_	_	_	_	Y	arrest.01	_	_
+4	và	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS
+5	tòa_án	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+6	xử	_	_	_	_	_	_	_	_	_	_	Y	sentence.01	_	_
+7	5	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+8	năm	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+9	tù_đày	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+10	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Phong_trào	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+2	lan_truyền	_	_	_	_	_	_	_	_	_	_	Y	spread.01	_	_
+3	mạnh_mẽ	_	_	_	_	_	_	_	_	_	_	Y	strong	ArgM-MNR	_
+4	hơn	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT
+5	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Cha	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Carrier	_
+2	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_	_
+3	thợ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Attribute	_
+4	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	mẹ	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Carrier
+6	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_	_
+7	nông_dân	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Attribute
+8	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Cha	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient
+2	tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient
+3	bị	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	phát_xít	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+5	Đức	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+6	bắt	_	_	_	_	_	_	_	_	_	_	Y	arrest.01	_
+7	giam	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+8	bên	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC
+9	Áo	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC
+10	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Bà	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_	_
+2	Raymonde_Dien	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_	_
+3	chia_sẻ	_	_	_	_	_	_	_	_	_	_	Y	say.01	_	_	_	_
+4	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	cha	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1-Patient	_	_
+7	tôi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1-Patient	_	_
+8	bị	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_	_
+9	bắt	_	_	_	_	_	_	_	_	_	_	Y	arrest.01	ArgM-DSP	_	_	_
+10	,	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_	_
+11	chị	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	Arg1-Patient	_
+12	tôi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	Arg1-Patient	_
+13	bị	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_	_
+14	đày	_	_	_	_	_	_	_	_	_	_	Y	exile.01	ArgM-DSP	_	_	_
+15	và	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_	_
+16	anh_trai	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_	Arg1-Patient
+17	tôi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_	Arg1-Patient
+18	đã	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_	ArgM-TMP
+19	bị	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	_	_	_
+20	bắn	_	_	_	_	_	_	_	_	_	_	Y	shoot.01	ArgM-DSP	_	_	_
+21	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Họ	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	tiếp_tục	_	_	_	_	_	_	_	_	_	_	Y	continue.01	_
+3	cuộc	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+4	đấu_tranh	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+5	vì	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+6	công_lý	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+7	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ngày	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	ấy	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	chúng_tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+4	gọi	_	_	_	_	_	_	_	_	_	_	Y	mean.01	_
+5	là	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+6	:	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	rủ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP
+8	nhau	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP
+9	đi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP
+10	làm	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP
+11	cách_mạng	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP
+12	"	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Còn	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DIS	_
+2	nhân_vật	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+3	của	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+4	sự_kiện	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+5	ngày_mai	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+6	thì	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	rất	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT	_
+8	non_trẻ	_	_	_	_	_	_	_	_	_	_	Y	young.01	_	_
+9	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	cũng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+11	chẳng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-NEG
+12	có	_	_	_	_	_	_	_	_	_	_	Y	own.01	_	_
+13	tiền	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+14	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Để	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_
+2	"	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_
+3	chế_tạo	_	_	_	_	_	_	_	_	_	_	Y	manufacture.01	_	ArgM-ADV	_	_
+4	"	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_
+5	ra	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	ArgM-ADV	_	_
+6	máy	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV	_	_
+7	gom	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV	_	_
+8	lúa	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV	_	_
+9	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	đầu_tiên	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	anh	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+12	Tư	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_
+13	nghĩ	_	_	_	_	_	_	_	_	_	_	Y	think.01	_	_	_	_
+14	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	muốn	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-MOD	ArgM-ADV
+16	gom	_	_	_	_	_	_	_	_	_	_	Y	collect.01	_	Arg1	_	ArgM-ADV
+17	được	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV	ArgM-ADV
+18	thì	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+19	phải	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	ArgM-MOD
+20	...	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_
+21	xúc	_	_	_	_	_	_	_	_	_	_	Y	shovel.01	_	Arg1	_	_
+22	nó	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	Arg1
+23	lên	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	ArgM-PRD
+24	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Nếu	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+2	Tùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	ArgM-ADV
+3	phát_hiện	_	_	_	_	_	_	_	_	_	_	Y	detect.01	_	ArgM-ADV
+4	Hải	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+5	thì	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	hậu_quả	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+7	vô_cùng	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+8	tồi_tệ	_	_	_	_	_	_	_	_	_	_	Y	bad	_	_
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	ArgM-ADV
+2	sớm	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+3	biết	_	_	_	_	_	_	_	_	_	_	Y	know.01	_	ArgM-ADV
+4	cuộc_chiến	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+5	phi_nghĩa	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+6	của	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+7	quân_đội	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+8	viễn_chinh	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+9	Pháp	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-ADV
+10	nên	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	đã	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+12	đứng	_	_	_	_	_	_	_	_	_	_	Y	revolt.01	_	_
+13	dậy	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+14	đấu_tranh	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+15	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ông	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	đã	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	trở_thành	_	_	_	_	_	_	_	_	_	_	Y	become.01	_
+4	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+5	bạn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+6	thân_thiết	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+7	với	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+8	toàn_thể	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	nhân_dân	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+10	VN	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+11	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Nhiều	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient
+2	thông_tin	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient
+3	về	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient
+4	chiến_tranh	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient
+5	VN	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient
+6	được	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	đưa	_	_	_	_	_	_	_	_	_	_	Y	post.02	_
+8	trên	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC
+9	báo	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC
+10	Nhân_Đạo	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-LOC
+11	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+2	đã	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP	_
+3	vận_động	_	_	_	_	_	_	_	_	_	_	Y	campaign.01	_	_
+4	những	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+5	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+6	công_nhân	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg0
+7	cùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+8	chống	_	_	_	_	_	_	_	_	_	_	Y	oppose.01	Arg1	_
+9	lại	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-PRD
+10	cuộc	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+11	chiến_tranh	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+12	bẩn_thỉu	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+13	đó	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1
+14	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ông	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+2	Henri_Martin	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+3	hồ_hởi	_	_	_	_	_	_	_	_	_	_	Y	cheer.01	_	_
+4	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Bác	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg1-Identifier
+7	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	ArgM-DSP	_
+8	lãnh_tụ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0-Identified
+9	để	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0-Identified
+10	lại	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0-Identified
+11	ấn_tượng	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0-Identified
+12	sâu_sắc	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0-Identified
+13	trong	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0-Identified
+14	cuộc_đời	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0-Identified
+15	tôi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-DSP	Arg0-Identified
+16	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	_	_
+2	quyết_định	_	_	_	_	_	_	_	_	_	_	Y	decide.01	_	_	_	_
+3	trở_về	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_	_
+4	ngay	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_	_	_
+5	để	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP	_	_	_
+6	tiếp_tục	_	_	_	_	_	_	_	_	_	_	Y	continue.01	ArgM-PRP	_	_	_
+7	tham_gia	_	_	_	_	_	_	_	_	_	_	Y	join.01	ArgM-PRP	Arg1	_	_
+8	chống	_	_	_	_	_	_	_	_	_	_	Y	resist.01	ArgM-PRP	Arg1	Arg1	_
+9	cuộc	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP	Arg1	Arg1	Arg1
+10	chiến_tranh	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP	Arg1	Arg1	Arg1
+11	phi_nghĩa	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP	Arg1	Arg1	Arg1
+12	mới	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP	Arg1	Arg1	Arg1
+13	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Bác_hồ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+2	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_
+3	hiện_thân	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+4	tất_cả	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+5	những	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+6	gì	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+7	tốt_đẹp	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+8	nhất	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Lần	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	thứ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	hai	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+4	,	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	vào	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+6	một	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+7	buổi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+8	tối	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+9	,	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Lan	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+11	đi	_	_	_	_	_	_	_	_	_	_	Y	go.01	_
+12	đến	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+13	một	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+14	nhà_hàng	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+15	karaoke	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+16	trên	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+17	đường	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+18	Bưởi	_	_	_	_	_	_	_	_	_	_	_	_	Arg4-Goal
+19	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Thứ	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	nhất	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	giấy	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient	Arg0
+5	khai_tử	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient	Arg0
+6	do	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+7	ubnd	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+8	phường	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	Arg0
+9	xác_nhận	_	_	_	_	_	_	_	_	_	_	Y	confirm.01	_	Arg0
+10	ở	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+11	phần	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+12	nguyên_nhân	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+13	chết	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+14	có	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	ghi	_	_	_	_	_	_	_	_	_	_	Y	write.01	_	_
+16	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	cảm	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+18	đột_ngột	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+19	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Ra	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_
+2	tù	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_	_
+3	bà	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_	Arg0
+4	tiếp_tục	_	_	_	_	_	_	_	_	_	_	Y	continue.01	_	_	_
+5	tham_gia	_	_	_	_	_	_	_	_	_	_	Y	join.01	Arg1	_	_
+6	đảng_bộ	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_
+7	cộng_sản	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_
+8	địa_phương	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg1	_
+9	và	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	tích_cực	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT
+11	tham_gia	_	_	_	_	_	_	_	_	_	_	Y	null	_	_	_
+12	các	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+13	phong_trào	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+14	đấu_tranh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+15	của	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+16	đảng	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+17	Cộng_sản	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+18	Pháp	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+19	trong	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+20	cuộc	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+21	đấu_tranh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+22	tại	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+23	VN	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+24	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Họ	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	đã	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	để	_	_	_	_	_	_	_	_	_	_	Y	leave.12	_
+4	lại	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD
+5	hậu_quả	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+6	quá	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+7	lớn	_	_	_	_	_	_	_	_	_	_	_	_	Arg2
+8	bằng	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+9	chất_độc	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+10	da_cam	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+11	/	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+12	dioxin	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+13	hủy_diệt	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV
+14	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Hiện_giờ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	chúng_tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+3	vẫn	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+4	đấu_tranh	_	_	_	_	_	_	_	_	_	_	Y	struggle.01	_
+5	để	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+6	chống	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+7	lại	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+8	,	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+9	tố_cáo	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+10	di_hại	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+11	của	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+12	chất_độc	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+13	da_cam	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRP
+14	...	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Nhân_dân	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	VN	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+3	đang	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+4	khắc_phục	_	_	_	_	_	_	_	_	_	_	Y	overcome.01	_
+5	hậu_quả	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+6	chiến_tranh	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+7	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Hậu_quả	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+2	nghiêm_trọng	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+3	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_
+4	hậu_quả	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+5	chất_độc	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+6	da_cam	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+7	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tháng	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	3	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	-	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+4	2005	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+5	chúng_tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+6	cùng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+7	hội	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+8	Hữu_nghị	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+9	pháp	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+10	-	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+11	Việt	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+12	sẽ	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+13	tổ_chức	_	_	_	_	_	_	_	_	_	_	Y	organize.01	_
+14	hội_thảo	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+15	quốc_tế	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+16	về	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+17	chất_độc	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+18	da_cam	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+19	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg0
+2	rất	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-EXT
+3	tự_hào	_	_	_	_	_	_	_	_	_	_	Y	pride.01	_
+4	là	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+5	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+6	bạn	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+7	của	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+8	VN	_	_	_	_	_	_	_	_	_	_	_	_	Arg1
+9	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	17	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+2	tuổi	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-TMP
+3	tôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Identifier
+4	là	_	_	_	_	_	_	_	_	_	_	Y	be.04	_
+5	thư_ký	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+6	đánh_máy	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+7	cho	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+8	văn_phòng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+9	đảng	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+10	Cộng_sản	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+11	Pháp	_	_	_	_	_	_	_	_	_	_	_	_	Arg0-Identified
+12	.	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Đến	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_
+2	VN	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_
+3	lần	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_
+4	này	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-ADV	_
+5	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	hai	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+7	người	_	_	_	_	_	_	_	_	_	_	_	_	Arg0	_
+8	như	_	_	_	_	_	_	_	_	_	_	Y	like	_	_
+9	đang	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	ArgM-TMP
+10	trở_lại	_	_	_	_	_	_	_	_	_	_	Y	come.01	Arg1	_
+11	ngôi	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg4-Goal
+12	nhà	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg4-Goal
+13	của	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg4-Goal
+14	mình	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	Arg4-Goal
+15	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+1	Cuộc_đời	_	_	_	_	_	_	_	_	_	_	_	_	
+2	dưới	_	_	_	_	_	_	_	_	_	_	_	_	
+3	vành	_	_	_	_	_	_	_	_	_	_	_	_	
+4	mũ	_	_	_	_	_	_	_	_	_	_	_	_	
+5	thám_tử	_	_	_	_	_	_	_	_	_	_	_	_	
+6	.	_	_	_	_	_	_	_	_	_	_	_	_	
+
+1	Đòi	_	_	_	_	_	_	_	_	_	_	Y	claim.01	_	_
+2	lại	_	_	_	_	_	_	_	_	_	_	_	_	ArgM-PRD	_
+3	một	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+4	cuộc_đời	_	_	_	_	_	_	_	_	_	_	_	_	Arg1	_
+5	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	đứa	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient
+7	con	_	_	_	_	_	_	_	_	_	_	_	_	_	Arg1-Patient
+8	bị	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	đánh_cắp	_	_	_	_	_	_	_	_	_	_	Y	filch.01	_	_
+10	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
